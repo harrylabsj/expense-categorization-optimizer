@@ -1,0 +1,7 @@
+{
+  "name": "Expense Categorization Optimizer",
+  "version": "0.1.0",
+  "author": "Harry (code agent)",
+  "description": "Optimize expense categorization with hierarchical frameworks, merchant mapping, workflow, and implementation templates.",
+  "runtime": "python3"
+}
